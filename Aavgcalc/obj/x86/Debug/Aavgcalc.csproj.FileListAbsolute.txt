@@ -1,0 +1,7 @@
+C:\Users\Rana\Desktop\Aavgcalc\Aavgcalc\bin\Debug\Aavgcalc.exe
+C:\Users\Rana\Desktop\Aavgcalc\Aavgcalc\bin\Debug\Aavgcalc.pdb
+C:\Users\Rana\Desktop\Aavgcalc\Aavgcalc\obj\x86\Debug\Aavgcalc.Form1.resources
+C:\Users\Rana\Desktop\Aavgcalc\Aavgcalc\obj\x86\Debug\Aavgcalc.Properties.Resources.resources
+C:\Users\Rana\Desktop\Aavgcalc\Aavgcalc\obj\x86\Debug\Aavgcalc.csproj.GenerateResource.Cache
+C:\Users\Rana\Desktop\Aavgcalc\Aavgcalc\obj\x86\Debug\Aavgcalc.exe
+C:\Users\Rana\Desktop\Aavgcalc\Aavgcalc\obj\x86\Debug\Aavgcalc.pdb
